@@ -1,5 +1,5 @@
 package seleniumtestcases;
 
-public class freeclass {
+public class mainbranch {
 
 }
